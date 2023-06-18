@@ -1,0 +1,9 @@
+{
+  "short_name": "Ecommerce App",
+  "name": "Ecommerce App - React, Axios, Node, Express, Mysql, Docker",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
